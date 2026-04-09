@@ -1,0 +1,9 @@
+# Changelog
+
+## Task 1-4
+- Date: [2026-03-27]
+- Status: [Completed]
+- Efforts Made:
+  - [Saya memodifikasi model Account dan Transaction untuk menyesuaikan]
+  - [Memodifikasi Driver untuk menyesuaikan keadaan break]
+  
