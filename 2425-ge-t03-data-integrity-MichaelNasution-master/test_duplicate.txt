@@ -1,0 +1,7 @@
+course-add#C001#Matematika#4#A
+course-add#C001#Duplikat Kode#3#B
+student-add#S001#Andi#2020#IPA
+student-add#S001#Duplikat NIM#2021#IPA
+enrollment-add#C001#S001#2021/2022#even
+enrollment-add#C001#S001#2021/2022#even
+---

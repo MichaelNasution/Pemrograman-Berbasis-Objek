@@ -1,0 +1,6 @@
+course-add#C001#Matematika#4#A
+student-add#S001#Andi#2020#IPA
+enrollment-add#C001#S001#2021/2022#even
+enrollment-add#C999#S001#2021/2022#even
+enrollment-add#C001#S999#2021/2022#even
+---
