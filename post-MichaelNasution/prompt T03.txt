@@ -1,0 +1,55 @@
+Posisikan kamu sebagai mahasiswa IT semester 4 yang sedang menyelesaikan masalah berikut dengan membuatkan program.
+
+
+
+Konteks:
+kamu akan membuatkan sebuah sistem yang mendukung operasional kafetaria IT Del.
+Detailnya adalah -> kafetaria it del adalah semacam kantin kecil yang cukup sederhana, mahasisa bisa datang dan memesan makanan juga minuman yang ada di jam kosong mereka, 
+pemesanan sekarang dilakukan secara manual, kita memilih menu yang ingin kita makan, lalu pekerja kantin akan melakukan pencatatan di sebuah buku secara manual yang berisi pembayaran dan nama Mahasiswa, karena jika pesanan telah selesai dibuat maka nama mahasiwa akan dipanggil untuk mengambil pesanan, pembayaran memiliki 2 metode, cash dan qris.
+
+adapun hak spesial yang diberikan kepada dosen dan staff, jika mereka memesan maka mereka diberikan opsi untuk menunggu dan mengambil pesananan itu secara mandiri atau memesan lalu akan ada pekerja cafetaria it del yang mengantarkan kemana dosen atau staff yang memesan itu ingin diantarkan kemana (ruang lingkup kampus) namun hal ini jelas terkena charge sekian ribu rupiah sebagai upah mengantar. 
+
+tugas mu adalah secara kreatif mengembangkan progran oop yang membuatkan sebuah sistem yang mendukung operasional kafetaria IT Del. kreatif dan pastinya secara logika memang memecahkan masalah yang ada atau kekurangan/ketidakefisiensian yang ada.
+
+
+
+
+kekhususan:
+- kamu akan membuatkan program dalam menyelesaikan masalah yang diberikan dengan konsep oop yang memiliki struktur -> Driver3.java tempat main function semuanya berinteraksi, dan Model3.java sebagai kamu meletakkan semua pembangun objeknya. 
+- Program ini akan di compile dan di run di dalam bentuk CLI, pastikan bisa berjalan dengan baik.
+- Advance OOP implementation
+- Saya memberikan kamu kebebasan dalam menentukan menu tambahan yang ada serta berapa harga charge untuk pengantaran menu pesanan selama itu masuk akal,
+
+untuk menu yang setau saya ada:
+Kopi hitam panas/dingin 5k/7k
+teh manis Panas/dingin 5k/7k
+capucino dingin/panas 7k/5k
+
+tempe goreng 10k
+tahu goreng 10k
+bakwan goreng 10k
+nugget goreng 15k
+tela-tela 15k
+roti isi ayam 15k
+
+kamu saya perbolehkan eksplore menu2 lain yang akan ditambahkan, tak apa banyak tentukan juga harganya, saya berikan kebebasan dalam menentukkannya
+
+
+
+input: 
+saya memberikan kamu kebebasan dalam mengembangkan struktur format inputan yang akan kamu berikan, be creative!
+
+
+
+**Output**
+sama halnya dengan input saya memberikan kebebasan kepada kamu dalam mengembangkan struktur format ouput
+
+perhatikan pada input, program akan berhenti menerima inputan saat kata "PESAN" di input lalu mengeluarkan output seperti pada format 
+
+batasan: Boleh harcode, wajib bisa di compile dan di run, debug dahulu sebelum memberikan final programnya kepada saya.
+
+
+pada bagian PESAN, untuk memesan kamu buat dengan kode -1, saya prefer dengan "---"
+dan pada metode pembayaran tidak diberikan opsi, saya harus menuliskannya sendiri, contoh "cash"
+
+perbaiki itu

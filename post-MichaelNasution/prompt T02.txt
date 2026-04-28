@@ -1,0 +1,23 @@
+konteks: kamu akan melanjutkan program dari penyelesaian masalah tadi,
+
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+
+source gambar terlampir
+
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+kekhususan:
+- kamu akan membuatkan program dalam menyelesaikan masalah yang diberikan dengan konsep oop yang memiliki struktur -> Driver2.java tempat main function semuanya berinteraksi, dan Model2.java sebagai kamu meletakkan semua pembangun objeknya. 
+- Program ini akan di compile dan di run di dalam bentuk CLI, pastikan bisa berjalan dengan baik.
+- saya memberi kamu kebebasan dalam membuatkan format input dan output pada bagian menentukan total stok hanya untuk kategori barang yang diminta.
+
+batasan: Tidak harcode, wajib bisa di compile dan di run, debug dahulu sebelum memberikan final programnya kepada saya.
+
+
+
+
+now how to compile in the right way

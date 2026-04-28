@@ -1,0 +1,101 @@
+Posisikan kamu sebagai mahasiswa IT semester 4 yang sedang menyelesaikan masalah berikut dengan membuatkan program. Konteks: Suatu sore yang cukup sibuk di kampus, dua mahasiswa IT Del, Ucok dan Butet, sedang duduk di depan asrama sambil memandangi beberapa dus besar yang tergeletak di samping mereka. Setelah menyelesaikan minggu yang penuh dengan tugas kuliah dan praktikum, mereka akhirnya punya waktu untuk mengirimkan beberapa barang ke kampung halaman masing-masing. “Waduh, kalau kita kirim lewat jasa biasa mahal juga ya,” kata Butet sambil menimbang salah satu dus miliknya. Ucok kemudian tersenyum dan menunjuk sebuah brosur yang ia temukan di papan pengumuman kampus. “Tenang saja, Tet. Katanya ada jasa pengiriman baru namanya Del-Express. Sistemnya transparan dan perhitungannya otomatis,” ujar Ucok. Butet langsung terlihat tertarik. “Wah, cocok nih. Kita kan anak IT, masa masih pakai hitung manual!” Mereka pun berjalan menuju kantor layanan Del-Express yang berada tidak jauh dari kampus. Setibanya di sana, mereka melihat sebuah papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan. Tidak jauh dari papan daftar ongkir, terdapat sebuah poster promo menarik yang ditempel di dinding. Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan. Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok. source gambar terlampir kekhususan: - kamu akan membuatkan program dalam menyelesaikan masalah yang diberikan dengan konsep oop yang memiliki struktur -> Driver1.java tempat main function semuanya berinteraksi, dan Model1.java sebagai kamu meletakkan semua pembangun objeknya. - Program ini akan di compile dan di run di dalam bentuk CLI, pastikan bisa berjalan dengan baik. input: MDN 5 JKT 3 BLG 4 END **Output** Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh, perhatikan pada input, program akan berhenti menerima inputan saat kata "END" di input lalu mengeluarkan output seperti pada format batasan: Tidak harcode, wajib bisa di compile dan di run, debug dahulu sebelum memberikan final programnya kepada saya.
+debug this
+[{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777219",
+	"severity": 8,
+	"message": "The type model.Model1 is not visible",
+	"source": "Java",
+	"startLineNumber": 4,
+	"startColumn": 8,
+	"endLineNumber": 4,
+	"endColumn": 20,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model1 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 10,
+	"startColumn": 9,
+	"endLineNumber": 10,
+	"endColumn": 15,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model1 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 10,
+	"startColumn": 28,
+	"endLineNumber": 10,
+	"endColumn": 34,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+}]
+
+[{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777219",
+	"severity": 8,
+	"message": "The type model.Model1 is not visible",
+	"source": "Java",
+	"startLineNumber": 4,
+	"startColumn": 8,
+	"endLineNumber": 4,
+	"endColumn": 20,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model1 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 10,
+	"startColumn": 9,
+	"endLineNumber": 10,
+	"endColumn": 15,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/driver/Driver1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model1 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 10,
+	"startColumn": 28,
+	"endLineNumber": 10,
+	"endColumn": 34,
+	"modelVersionId": 17,
+	"origin": "extHost1"
+}]
+
+[{
+	"resource": "/C:/Users/ASUS/Documents/GitHub/post-MichaelNasution/src/model/Model1.java",
+	"owner": "_generated_diagnostic_collection_name_#5",
+	"code": "1610612940",
+	"severity": 8,
+	"message": "Syntax error on token \"Public\", public expected",
+	"source": "Java",
+	"startLineNumber": 4,
+	"startColumn": 1,
+	"endLineNumber": 4,
+	"endColumn": 7,
+	"modelVersionId": 18,
+	"origin": "extHost1"
+}]
+
+debug these
+
